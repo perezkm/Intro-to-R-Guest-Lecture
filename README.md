@@ -10,3 +10,10 @@ These are some edits I make on my local machine
 *edit 2
 
 So on and so forth.
+
+I made these edits online (or a collaporator push them).
+
+Edit 1
+Edit 2
+
+xyz
